@@ -2,6 +2,10 @@
 
 This is a simple implementation of NEC protocol. You can find description of this protocol on: http://www.sbprojects.com/knowledge/ir/nec.php
 
+## Simplified state diagram
+
+![alt text](ir_nec.png?raw=true "Simplified state diagram")
+
 # Description
 
 As remote controller is used device described on http://www.geeetech.com/wiki/index.php/Arduino_IR_Remote_Control. It turns LEDs on and off using commands:
