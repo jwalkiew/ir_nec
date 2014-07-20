@@ -4,7 +4,7 @@ This is a simple implementation of NEC protocol. You can find description of thi
 
 ## Simplified state diagram
 
-![alt text](ir_nec.png?raw=true "Simplified state diagram")
+![alt text](ir_nec_ds.png?raw=true "Simplified state diagram")
 
 # Description
 
