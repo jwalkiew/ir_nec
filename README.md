@@ -20,6 +20,10 @@ As remote controller is used device described on http://www.geeetech.com/wiki/in
 * eagle - contains circuit diagram designed in Eagle
 * src - contains sources written in C language
 
+# Circuit diagram
+
+![alt text](ir_nec_dc.png?raw=true "Circuit diagram")
+
 # Used electronic components
 
 * Microcontrollers:
